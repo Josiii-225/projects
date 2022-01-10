@@ -1,3 +1,3 @@
-Built with
-Java
-MySQl
+Built using:
+  * Java
+  * MySQL
