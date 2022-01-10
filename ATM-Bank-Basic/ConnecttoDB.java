@@ -17,7 +17,7 @@ public class ConnecttoDB {
 	public ConnecttoDB() {
 		final String url = "jdbc:mysql://localhost:3306/bank";
 		final String user= "root";
-		final String password= "434366S@ng";
+		final String password= "";
 		try {
 			Class.forName("com.mysql.cj.jdbc.Driver");
 			conn=DriverManager.getConnection(url,user,password);
